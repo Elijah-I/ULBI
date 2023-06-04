@@ -7,5 +7,6 @@ export default (options: BuildOptions): DevServer.Configuration => {
   return {
     port,
     open: true,
+    historyApiFallback: true,
   };
 };
