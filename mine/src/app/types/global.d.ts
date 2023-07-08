@@ -17,3 +17,4 @@ declare module "*.svg" {
 }
 
 declare module "ulbi/Navbar";
+declare module "ulbi/Footer";

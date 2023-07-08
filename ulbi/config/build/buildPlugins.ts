@@ -15,7 +15,8 @@ export function buildPlugins({
       filename: "remoteEntry.js",
       remotes: {},
       exposes: {
-        "./Navbar": "./src/widgets/Navbar"
+        "./Navbar": "./src/widgets/Navbar",
+        "./Footer": "./src/widgets/Footer"
       },
       shared: {
         ...deps,
