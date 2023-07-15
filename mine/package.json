@@ -25,6 +25,7 @@
     "mini-css-extract-plugin": "^2.5.3",
     "sass": "^1.49.9",
     "sass-loader": "^12.6.0",
+    "shared-types-test-elijah-i": "^1.0.2",
     "style-loader": "^3.3.1",
     "ts-loader": "^9.2.6",
     "ts-node": "^10.5.0",

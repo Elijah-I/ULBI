@@ -8,7 +8,18 @@ import { SafeProvider } from "./providers/safe.component";
 import { Navbar } from "ulbi/Navbar";
 import { Footer } from "ulbi/Footer";
 
+import { User, List, Admin } from "shared-types-test-elijah-i";
+
 import "./styles/index.scss";
+
+const user: User = {
+  age: 1,
+  name: "asd"
+};
+
+const list: List = { list: [user] };
+
+const admin: Admin = { ...user, permissions: [1] };
 
 const App = () => {
   const { theme } = useTheme();
