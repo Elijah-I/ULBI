@@ -1,58 +1,58 @@
 <mxfile host="65bd71144e">
     <diagram id="8qgTG7ONyQT9p0LNl84F" name="Profits">
-        <mxGraphModel dx="1733" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1466" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="VB3ezGc2HSQNqY5r-Jsg-2" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#FF3333;fontFamily=Comic Sans MS;fontSize=16;fontColor=#33FF33;fillColor=#660000;" vertex="1" parent="1">
+                <mxCell id="VB3ezGc2HSQNqY5r-Jsg-2" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#FF3333;fontFamily=Comic Sans MS;fontSize=16;fontColor=#33FF33;fillColor=#660000;" parent="1" vertex="1">
                     <mxGeometry x="-90" y="1060" width="1160" height="540" as="geometry"/>
                 </mxCell>
-                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-24" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#99FF33;fontFamily=Comic Sans MS;fontSize=16;fontColor=#33FF33;fillColor=#333333;" vertex="1" parent="1">
+                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-24" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#99FF33;fontFamily=Comic Sans MS;fontSize=16;fontColor=#33FF33;fillColor=#333333;" parent="1" vertex="1">
                     <mxGeometry x="-90" y="298" width="1160" height="392" as="geometry"/>
                 </mxCell>
-                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-3" value="1. Легко поддерживать / вносить изменения:&lt;br&gt;&amp;nbsp; &amp;nbsp;- добалять новые разделы&lt;br&gt;&amp;nbsp; &amp;nbsp;- вносить изменения в существующие" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-3" value="1. Легко поддерживать / вносить изменения:&lt;br&gt;&amp;nbsp; &amp;nbsp;- добалять новые разделы&lt;br&gt;&amp;nbsp; &amp;nbsp;- вносить изменения в существующие" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
                     <mxGeometry x="-30" y="410" width="460" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
+                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="-70" y="-150" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-5" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#FFFF33;fillStyle=dots;sketch=1;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
+                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-5" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#FFFF33;fillStyle=dots;sketch=1;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="90" y="-150" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-6" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#006600;sketch=1;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
+                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-6" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#006600;sketch=1;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="250" y="-150" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-8" style="edgeStyle=orthogonalEdgeStyle;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=16;" edge="1" parent="1" source="5o-WBC6FVF6Q3Lx8JBha-7" target="5o-WBC6FVF6Q3Lx8JBha-4">
+                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-8" style="edgeStyle=orthogonalEdgeStyle;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=16;" parent="1" source="5o-WBC6FVF6Q3Lx8JBha-7" target="5o-WBC6FVF6Q3Lx8JBha-4" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-9" style="edgeStyle=orthogonalEdgeStyle;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=16;" edge="1" parent="1" source="5o-WBC6FVF6Q3Lx8JBha-7" target="5o-WBC6FVF6Q3Lx8JBha-6">
+                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-9" style="edgeStyle=orthogonalEdgeStyle;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=16;" parent="1" source="5o-WBC6FVF6Q3Lx8JBha-7" target="5o-WBC6FVF6Q3Lx8JBha-6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-10" style="edgeStyle=orthogonalEdgeStyle;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=16;" edge="1" parent="1" source="5o-WBC6FVF6Q3Lx8JBha-7" target="5o-WBC6FVF6Q3Lx8JBha-5">
+                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-10" style="edgeStyle=orthogonalEdgeStyle;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=16;" parent="1" source="5o-WBC6FVF6Q3Lx8JBha-7" target="5o-WBC6FVF6Q3Lx8JBha-5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-7" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=20;strokeColor=#FF0000;fillColor=#660000;" vertex="1" parent="1">
+                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-7" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=20;strokeColor=#FF0000;fillColor=#660000;" parent="1" vertex="1">
                     <mxGeometry x="105" y="-300" width="90" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-11" value="4. Над кодом одновременно монут работать&lt;br&gt;&amp;nbsp; &amp;nbsp; несколько команд не мешая друг другу" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-11" value="4. Над кодом одновременно монут работать&lt;br&gt;&amp;nbsp; &amp;nbsp; несколько команд не мешая друг другу" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
                     <mxGeometry x="580" y="564" width="450" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-12" value="3. При ротации кадров / расширении штата&lt;br&gt;&amp;nbsp; &amp;nbsp; новому сотруднику вместо изучения 1&lt;br&gt;&amp;nbsp; &amp;nbsp; большого монолита нужно будет вникнуть&lt;br&gt;&amp;nbsp; &amp;nbsp; в один микрофронт на котором он будет&lt;br&gt;&amp;nbsp; &amp;nbsp; работать" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-12" value="3. При ротации кадров / расширении штата&lt;br&gt;&amp;nbsp; &amp;nbsp; новому сотруднику вместо изучения 1&lt;br&gt;&amp;nbsp; &amp;nbsp; большого монолита нужно будет вникнуть&lt;br&gt;&amp;nbsp; &amp;nbsp; в один микрофронт на котором он будет&lt;br&gt;&amp;nbsp; &amp;nbsp; работать" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
                     <mxGeometry x="580" y="410" width="460" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-13" value="2. Микрофронт не привязан к технологии:&lt;br&gt;&amp;nbsp; &amp;nbsp; React, Vue, Angular, Native JS - можно&lt;br&gt;&amp;nbsp; &amp;nbsp; писать на чем угодно и все будет работать" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-13" value="2. Микрофронт не привязан к технологии:&lt;br&gt;&amp;nbsp; &amp;nbsp; React, Vue, Angular, Native JS - можно&lt;br&gt;&amp;nbsp; &amp;nbsp; писать на чем угодно и все будет работать" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
                     <mxGeometry x="-30" y="540" width="460" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-23" value="&lt;div&gt;&lt;font color=&quot;#33ff33&quot;&gt;Микрофронтенды&lt;/font&gt; — это деление монолитного приложения&lt;br&gt;на семантически изолированные части и их независимая разработка.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Микрофронтенды имеют смысл, если:&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#33ff33&quot;&gt;У вас большое приложение.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#33ff33&quot;&gt;Несколько команд разработки.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#33ff33&quot;&gt;Вы все чаще сталкиваетесь с проблемами при выкате обновлений приложения.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#33ff33&quot;&gt;Преимущества монолита обернулись в минусы.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+                <mxCell id="5o-WBC6FVF6Q3Lx8JBha-23" value="&lt;div&gt;&lt;font color=&quot;#33ff33&quot;&gt;Микрофронтенды&lt;/font&gt; — это деление монолитного приложения&lt;br&gt;на семантически изолированные части и их независимая разработка.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Микрофронтенды имеют смысл, если:&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#33ff33&quot;&gt;У вас большое приложение.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#33ff33&quot;&gt;Несколько команд разработки.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#33ff33&quot;&gt;Вы все чаще сталкиваетесь с проблемами при выкате обновлений приложения.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#33ff33&quot;&gt;Преимущества монолита обернулись в минусы.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
                     <mxGeometry x="400" y="-300" width="690" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="VB3ezGc2HSQNqY5r-Jsg-1" value="&lt;span style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;1. Больше времени требуется на добавление&lt;/span&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;&amp;nbsp;и изменение функционала. Он не гибкий.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;2. При появлении критических ошибок в 1&lt;/span&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;&amp;nbsp;модуле невозможно (или затруднительно)&lt;/span&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;&amp;nbsp;откатить его точечно.&lt;br&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;3. Нелинейно увеличивается порог вхождения&lt;/span&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;&amp;nbsp;новых разработчиков в проект.&lt;br&gt;&lt;br&gt;4. Миграция на новые технологии (если понадобится) будет невероятно дорогостоящей.&lt;br&gt;&lt;br&gt;5. Весь монолит в итоге держится на 1 старшем разработчике и без него вся система просто встанет.&lt;br&gt;&lt;br&gt;6. Отвалилось что-то одно - посыпалось остальное.&lt;br&gt;&lt;br&gt;7. Каждое последующее регресс-тестирование будет занимать нелинейно больше времени.&lt;br&gt;&lt;br&gt;8. С каждой новой фичей значительно возрастает риск сломать что-то, что уже работало.&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Comic Sans MS;fontColor=#FFFF33;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+                <mxCell id="VB3ezGc2HSQNqY5r-Jsg-1" value="&lt;span style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;1. Больше времени требуется на добавление&lt;/span&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;&amp;nbsp;и изменение функционала. Он не гибкий.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;2. При появлении критических ошибок в 1&lt;/span&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;&amp;nbsp;модуле невозможно (или затруднительно)&lt;/span&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;&amp;nbsp;откатить его точечно.&lt;br&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;3. Нелинейно увеличивается порог вхождения&lt;/span&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-size: 20px;&quot;&gt;&amp;nbsp;новых разработчиков в проект.&lt;br&gt;&lt;br&gt;4. Миграция на новые технологии (если понадобится) будет невероятно дорогостоящей.&lt;br&gt;&lt;br&gt;5. Весь монолит в итоге держится на 1 старшем разработчике и без него вся система просто встанет.&lt;br&gt;&lt;br&gt;6. Отвалилось что-то одно - посыпалось остальное.&lt;br&gt;&lt;br&gt;7. Каждое последующее регресс-тестирование будет занимать нелинейно больше времени.&lt;br&gt;&lt;br&gt;8. С каждой новой фичей значительно возрастает риск сломать что-то, что уже работало.&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Comic Sans MS;fontColor=#FFFF33;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
                     <mxGeometry x="-50" y="1180" width="1070" height="370" as="geometry"/>
                 </mxCell>
-                <mxCell id="VB3ezGc2HSQNqY5r-Jsg-3" value="Чем опасен монолит в перспективе" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Comic Sans MS;fontColor=#FFFF33;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+                <mxCell id="VB3ezGc2HSQNqY5r-Jsg-3" value="Чем опасен монолит в перспективе" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Comic Sans MS;fontColor=#FFFF33;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
                     <mxGeometry x="260" y="1109" width="460" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="VB3ezGc2HSQNqY5r-Jsg-4" value="Микрофронты это хорошо" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Comic Sans MS;fontColor=#33FF33;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+                <mxCell id="VB3ezGc2HSQNqY5r-Jsg-4" value="Микрофронты это хорошо" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Comic Sans MS;fontColor=#33FF33;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
                     <mxGeometry x="320" y="339" width="340" height="40" as="geometry"/>
                 </mxCell>
             </root>
@@ -133,7 +133,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="yCC9rf-sUWWR5z_XWHt1" name="Module Federation">
-        <mxGraphModel dx="2532" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1466" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -237,11 +237,109 @@
                 <mxCell id="0PwCYbKf0HHqDgh5qofg-25" value="NPM Types Library&lt;br&gt;&lt;br&gt;v.1.0.0" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;shadow=0;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=hachure;curveFitting=1;strokeColor=#FF33FF;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#FFFFFF;fillColor=#660066;gradientColor=none;" parent="1" vertex="1">
                     <mxGeometry x="270" y="150" width="295" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="CDbEv3WedqIupkCDZc5I-1" value="&lt;font color=&quot;#ffff33&quot;&gt;Authorization&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;rounded=0;shadow=0;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=hachure;curveFitting=1;strokeColor=#FFFF33;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#1ba1e2;fillColor=#666600;gradientColor=none;" vertex="1" parent="1">
+                <mxCell id="CDbEv3WedqIupkCDZc5I-1" value="&lt;font color=&quot;#ffff33&quot;&gt;Authorization&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;rounded=0;shadow=0;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=hachure;curveFitting=1;strokeColor=#FFFF33;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#1ba1e2;fillColor=#666600;gradientColor=none;" parent="1" vertex="1">
                     <mxGeometry x="63" y="-269" width="160" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="CDbEv3WedqIupkCDZc5I-2" value="" style="triangle;html=1;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=hachure;curveFitting=1;strokeColor=#FFFF33;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#1ba1e2;fillColor=#666600;gradientColor=none;rotation=-180.8;" vertex="1" parent="1">
+                <mxCell id="CDbEv3WedqIupkCDZc5I-2" value="" style="triangle;html=1;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=hachure;curveFitting=1;strokeColor=#FFFF33;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#1ba1e2;fillColor=#666600;gradientColor=none;rotation=-180.8;" parent="1" vertex="1">
                     <mxGeometry x="249" y="-249" width="20" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="r0uqbXsuHlq9ZsYndbOg" name="Cybernetes">
+        <mxGraphModel dx="1045" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-1" value="" style="endArrow=none;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="280" y="510" as="sourcePoint"/>
+                        <mxPoint x="280" y="-80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-2" value="" style="endArrow=none;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="620" y="511" as="sourcePoint"/>
+                        <mxPoint x="620" y="-79" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-3" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;server MF-home&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#660000;strokeColor=#FF3333;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="40" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-4" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;server MF-0&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#660000;strokeColor=#FF3333;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="120" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-5" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;server MF-1&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#660000;strokeColor=#FF3333;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="203" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-6" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;server MF-UI&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#660000;strokeColor=#FF3333;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="283" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-7" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px;&quot;&gt;server MF-Types .Lib&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fillColor=#660000;strokeColor=#FF3333;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="361" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-8" value="ДОРОГО" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=default;fontColor=#FF3333;" vertex="1" parent="1">
+                    <mxGeometry x="82" y="-60" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-14" value="&lt;font color=&quot;#ffff33&quot;&gt;ОТСТАЛО&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=default;fontColor=#FF3333;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="-60" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-16" value="SERVER" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#FFFF33;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFF33;fillColor=#666600;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+                    <mxGeometry x="310" width="280" height="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-17" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;WM MF-home&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#333300;strokeColor=#FFFF66;fillStyle=solid;" vertex="1" parent="1">
+                    <mxGeometry x="349" y="81" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-18" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;WM&amp;nbsp;&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;MF-0&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#333300;strokeColor=#FFFF66;fillStyle=solid;" vertex="1" parent="1">
+                    <mxGeometry x="349" y="151" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-19" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;WM&amp;nbsp;&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;MF-1&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#333300;strokeColor=#FFFF66;fillStyle=solid;" vertex="1" parent="1">
+                    <mxGeometry x="349" y="221" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-20" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;WM MF-&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;UI&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#333300;strokeColor=#FFFF66;fillStyle=solid;" vertex="1" parent="1">
+                    <mxGeometry x="349" y="291" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-21" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 16px;&quot;&gt;WM MF-Types.Lib&lt;/span&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fillColor=#333300;strokeColor=#FFFF66;fillStyle=solid;" vertex="1" parent="1">
+                    <mxGeometry x="349" y="361" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-22" value="&lt;font color=&quot;#33ff33&quot;&gt;ПО КРАСОТЕ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=default;fontColor=#FF3333;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="-60" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-23" value="SERVER" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#33FF33;fontFamily=Comic Sans MS;fontSize=20;fontColor=#33FF33;fillColor=#003300;verticalAlign=top;spacingTop=16;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="1" width="370" height="489" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-25" value="DOCKER&lt;br&gt;MF-home" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#33FF33;fontFamily=Comic Sans MS;fontSize=20;fontColor=#33FF33;fillColor=#003300;" vertex="1" parent="1">
+                    <mxGeometry x="830" y="81" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-26" value="DOCKER&lt;br&gt;MF-0" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#33FF33;fontFamily=Comic Sans MS;fontSize=20;fontColor=#33FF33;fillColor=#003300;" vertex="1" parent="1">
+                    <mxGeometry x="830" y="161" width="151" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-27" value="DOCKER&lt;br&gt;MF-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#33FF33;fontFamily=Comic Sans MS;fontSize=20;fontColor=#33FF33;fillColor=#003300;" vertex="1" parent="1">
+                    <mxGeometry x="830" y="241" width="152" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-28" value="DOCKER&lt;br&gt;MF-UI" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#33FF33;fontFamily=Comic Sans MS;fontSize=20;fontColor=#33FF33;fillColor=#003300;" vertex="1" parent="1">
+                    <mxGeometry x="830" y="321" width="153" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-29" value="DOCKER&lt;br&gt;MF-Types.Lib" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#33FF33;fontFamily=Comic Sans MS;fontSize=20;fontColor=#33FF33;fillColor=#003300;" vertex="1" parent="1">
+                    <mxGeometry x="830" y="401" width="153" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-30" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;labelBackgroundColor=none;sketch=1;hachureGap=4;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#33FF33;fontFamily=Comic Sans MS;fontSize=16;fontColor=#33FF33;fillColor=#006600;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="81" width="90" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-31" value="Кубик" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Comic Sans MS;fontColor=#33FF33;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+                    <mxGeometry x="690" y="191" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-33" value="" style="endArrow=none;dashed=1;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=16;fontColor=#33FF33;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="670" y="265" as="sourcePoint"/>
+                        <mxPoint x="800" y="265" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-34" value="Антон" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;sketch=1;hachureGap=4;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#33FF33;fontFamily=Comic Sans MS;fontSize=16;fontColor=#33FF33;fillColor=#006600;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="310" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ru_BOYaPIectmfdx_sfB-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelBackgroundColor=none;sketch=1;hachureGap=4;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#33FF33;fontFamily=Comic Sans MS;fontSize=16;fontColor=#33FF33;fillColor=#006600;" vertex="1" parent="1">
+                    <mxGeometry x="800" y="61" width="20" height="409" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
