@@ -5,21 +5,34 @@ import { useEffect, useState } from "react";
 export const useRequestCache = <
   T extends ReturnType<UseLazyQuery<QueryDefinition<any, any, any, any>>>
 >(
-  requestName: string,
   lazyQuery: () => T,
+  id: string,
   args: any
 ): T[1] => {
-  const uniqName = requestName + JSON.stringify(args);
   const [fetchQuery, response] = lazyQuery();
   const [cache, setCache] = useState(response);
 
   useEffect(() => {
     const fetchData = async () => {
-      if (!localStorage.getItem(uniqName)) {
+      const uniqId = id + JSON.stringify(args);
+      const cached = localStorage.getItem(uniqId);
+      let cachedData;
+
+      if (cached) {
+        let { data, timestamp } = JSON.parse(cached);
+        if (Date.now() - timestamp < 10000) {
+          cachedData = data;
+        }
+      }
+
+      if (!cachedData) {
         const response = await fetchQuery(args);
-        localStorage.setItem(uniqName, JSON.stringify(response));
+        localStorage.setItem(
+          uniqId,
+          JSON.stringify({ data: response, timestamp: Date.now() })
+        );
       } else {
-        setCache(JSON.parse(localStorage.getItem(uniqName)));
+        setCache(cachedData);
       }
     };
 

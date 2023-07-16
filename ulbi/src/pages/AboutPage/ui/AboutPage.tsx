@@ -6,8 +6,8 @@ const AboutPage = () => {
   const [id, setId] = useState(1);
 
   const { isFetching, data: user } = useRequestCache(
-    "user",
     useLazyFetchUserQuery,
+    "user",
     id
   );
 
